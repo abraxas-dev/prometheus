@@ -1,7 +1,5 @@
 # 🚀 Prometheus Quality Management System
 
-A modern, AI-powered quality management system for industrial applications. Monitor, analyze, and predict machine performance metrics in real-time.
-
 ## ✨ Features
 
 - **Real-time Monitoring**: Track temperature, pressure, vibration, humidity, and error rates
@@ -40,7 +38,7 @@ A modern, AI-powered quality management system for industrial applications. Moni
 
 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/prometheus-qms.git
+git clone UrlOfRep
 cd prometheus-qms
 ```
 
@@ -59,6 +57,4 @@ pip install -r requirements.txt
 ```bash
 uvicorn main:app --reload
 ```
-
-The API will be available at `http://localhost:8000`
 
