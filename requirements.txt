@@ -1,0 +1,16 @@
+fastapi
+uvicorn
+sqlalchemy
+pydantic
+numpy
+pandas
+scikit-learn
+prophet
+python-dateutil
+joblib
+typing-extensions
+python-multipart
+pytest
+httpx
+python-jose[cryptography]
+passlib[bcrypt]
