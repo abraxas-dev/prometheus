@@ -1,4 +1,4 @@
-# 🚀 Prometheus Quality Management System
+# 🚀 Prometheus : Quality Management System
 
 ## ✨ Features
 
